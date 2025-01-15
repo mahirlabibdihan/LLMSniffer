@@ -1,0 +1,1 @@
+for _ in range(int(input())):print(pow(2,2*int(bin(int(input())).replace("0b", "") ),10**9 + 7))

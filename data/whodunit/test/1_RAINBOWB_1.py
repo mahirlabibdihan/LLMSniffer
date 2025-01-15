@@ -1,0 +1,13 @@
+x=int(input(""))
+ans=0
+if(x<13):
+    ans=0
+if(x>=13):
+    if(x%2==0):
+        x=int(x-2)
+    if(x%2==1):
+        x=int(x-1)
+    x=x//2
+    ans=x*(x-1)*(x-2)*(x-3)*(x-4)*(x-5)//720
+    ans=int(ans%(1000000007))
+print("",(ans))
