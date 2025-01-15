@@ -2,10 +2,6 @@
 
 ![Overview](overview.png)
 
-## Overview
-
-This repository contains the code for the project of the course CSE 472: Machine Learning Sessional. The project is about improving the performance of the existing models for the task of authorship attribution. The models that are improved are GPTSniffer and WhodUnit. The models are improved by using ensemble learning techniques. The models are trained on the PAN 2013 dataset.
-
 ## GPTSniffer
 
 - Paper: [GPTSniffer](https://www.sciencedirect.com/science/article/pii/S0164121224001043)
