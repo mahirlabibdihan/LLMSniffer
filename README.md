@@ -10,7 +10,7 @@
 - Checkpoint: [GPTSniffer-Checkpoint](https://huggingface.co/mahirlabibdihan/LLMSniffer/blob/main/gptsniffer.pth)
 - Accuracy increased from 70% to 78%
 
-## WhodUnit
+## Whodunit
 
 - Paper: [Whodunit](https://arxiv.org/pdf/2403.04013)
 - Train data: [Whodunit-Train](data/whodunit/train/)
