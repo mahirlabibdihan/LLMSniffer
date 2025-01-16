@@ -17,6 +17,12 @@ The increasing prevalence of Large Language Models (LLMs) in generating code has
 
 ![Overview](overview.png)
 
+## Demontration
+
+Check out the [live demo](https://huggingface.co/spaces/mahirlabibdihan/LLMSniffer) of LLMSniffer.
+
+![Demo](streamlit.png)
+
 ## GPTSniffer
 
 - Paper: [GPTSniffer](https://www.sciencedirect.com/science/article/pii/S0164121224001043)
