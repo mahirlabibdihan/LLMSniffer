@@ -2,7 +2,7 @@
 
 <h1>LLMSniffer: LLM Generated  Code Detection</h1>
 
-[**Mahir Labib Dihan**](https://mahirlabibdihan.github.io/) · [**Abir Muhtasim**](https://abir66.github.io/)
+**[Mahir Labib Dihan](https://mahirlabibdihan.github.io/)** · **[Abir Muhtasim](https://abir66.github.io/)** 
 
 Department of Computer Science and Engineering <br>
 Bangladesh University of Engineering and Technology (BUET)
