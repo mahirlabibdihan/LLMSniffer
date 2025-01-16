@@ -19,7 +19,7 @@ The increasing prevalence of Large Language Models (LLMs) in generating code has
 
 ## Demontration
 
-Check out the [live demo](https://huggingface.co/spaces/mahirlabibdihan/LLMSniffer) of LLMSniffer.
+Check out the [live demo](https://huggingface.co/spaces/mahirlabibdihan/LLMSniffer) and [demo video](https://youtu.be/xkb_vrEfJIY) of LLMSniffer.
 
 ![Demo](streamlit.png)
 
