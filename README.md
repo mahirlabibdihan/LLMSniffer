@@ -1,4 +1,4 @@
-<h1 align="center">AI GENERATED  CODE DETECTION</h1>
+<h1 align="center">LLMSniffer: LLM Generated  Code Detection</h1>
 
 ![Overview](overview.png)
 
