@@ -4,7 +4,7 @@
 
 [**Mahir Labib Dihan**](https://mahirlabibdihan.github.io/) · [**Abir Muhtasim**](https://abir66.github.io/)
 
-Department of Computer Science and Engineering 
+Department of Computer Science and Engineering <br>
 Bangladesh University of Engineering and Technology (BUET)
 
 Email: [mahirlabibdihan@gmail.com](mailto:mahirlabibdihan@gmail.com), [auntor505@gmail.com](mailto:auntor505@gmail.com)
