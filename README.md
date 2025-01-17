@@ -58,6 +58,23 @@ Check out the [live demo](https://huggingface.co/spaces/mahirlabibdihan/LLMSniff
   </div>
 </div>
 
+<table>
+  <tr>
+    <td align="center">
+      <figure>
+        <img src="tsne_1.png" alt="GPTSniffer" style="width: 100%;">
+        <figcaption>GPTSniffer</figcaption>
+      </figure>
+    </td>
+    <td align="center">
+      <figure>
+        <img src="tsne_2.png" alt="LLMSniffer" style="width: 100%;">
+        <figcaption>LLMSniffer</figcaption>
+      </figure>
+    </td>
+  </tr>
+</table>
+
 ## Whodunit
 
 - Paper: [Whodunit](https://arxiv.org/pdf/2403.04013)
