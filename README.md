@@ -43,34 +43,21 @@ Check out the [live demo](https://huggingface.co/spaces/mahirlabibdihan/LLMSniff
 
 **Test Set Embedding Visualization:**
 
-<div align="center">
-  <div style="display: inline-block; width: 45%;">
-    <figure>
-      <img src="tsne_1.png" alt="GPTSniffer" style="width: 100%;">
-      <figcaption>GPTSniffer</figcaption>
-    </figure>
-  </div>
-  <div style="display: inline-block; width: 45%;">
-    <figure>
-      <img src="tsne_2.png" alt="LLMSniffer" style="width: 100%;">
-      <figcaption>LLMSniffer</figcaption>
-    </figure>
-  </div>
-</div>
-
 <table>
+    <tr>
+        <th align="center">
+            GPTSniffer
+        </th>
+        <th align="center">
+            LLMSniffer
+        </th>
+    </tr>
   <tr>
     <td align="center">
-      <figure>
-        <img src="tsne_1.png" alt="GPTSniffer" style="width: 100%;">
-        <figcaption>GPTSniffer</figcaption>
-      </figure>
+      <img src="tsne_1.png" alt="GPTSniffer" style="width: 100%;">
     </td>
     <td align="center">
-      <figure>
-        <img src="tsne_2.png" alt="LLMSniffer" style="width: 100%;">
-        <figcaption>LLMSniffer</figcaption>
-      </figure>
+      <img src="tsne_2.png" alt="LLMSniffer" style="width: 100%;">
     </td>
   </tr>
 </table>
