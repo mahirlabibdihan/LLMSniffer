@@ -30,12 +30,16 @@ Check out the [live demo](https://huggingface.co/spaces/mahirlabibdihan/LLMSniff
 - Test data: [GPTSniffer-Test](data/gptsniffer/test/)
 - Checkpoint: [GPTSniffer-Checkpoint](https://huggingface.co/mahirlabibdihan/LLMSniffer/blob/main/gptsniffer.pth)
 
+<div align="center">
+
 | Metric       | GPTSniffer | Ours (LLMSniffer) |
 |--------------|:----------:|:-----------------:|
 | Accuracy     | 70.33%     | 77.66%            |
 | Precision    | 90.32%     | 80.70%            |
 | Recall       | 42.75%     | 70.23%            |
 | F1 Score     | 58.03%     | 75.10%            |
+
+</div>
 
 ## Whodunit
 
@@ -44,9 +48,13 @@ Check out the [live demo](https://huggingface.co/spaces/mahirlabibdihan/LLMSniff
 - Test data: [Whodunit-Test](data/whodunit/test/)
 - Checkpoint: [Whodunit-Checkpoint](https://huggingface.co/mahirlabibdihan/LLMSniffer/blob/main/whodunit.pth)
 
+<div align="center">
+
 | Metric       | Whodunit | Ours (LLMSniffer) |
 |--------------|:--------:|:-----------------:|
 | Accuracy     | 91%      | 94.65%            |
 | Precision    | 91%      | 94.94%            |
 | Recall       | 91%      | 94.34%            |
 | F1 Score     | 91%      | 94.64%            |
+
+</div>
