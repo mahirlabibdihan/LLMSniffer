@@ -41,7 +41,7 @@ Check out the [live demo](https://huggingface.co/spaces/mahirlabibdihan/LLMSniff
 
 </div>
 
-#### Test Set Embedding Visualization
+### Test Set Embedding Visualization
 
 <table>
     <tr>
