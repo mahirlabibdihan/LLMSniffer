@@ -44,13 +44,13 @@ Check out the [live demo](https://huggingface.co/spaces/mahirlabibdihan/LLMSniff
 **Test Set Embedding Visualization:**
 
 <div align="center">
-  <div style="display: inline-block; width: 49%;">
+  <div style="display: inline-block; width: 45%;">
     <figure>
       <img src="tsne_1.png" alt="GPTSniffer" style="width: 100%;">
       <figcaption>GPTSniffer</figcaption>
     </figure>
   </div>
-  <div style="display: inline-block; width: 49%;">
+  <div style="display: inline-block; width: 45%;">
     <figure>
       <img src="tsne_2.png" alt="LLMSniffer" style="width: 100%;">
       <figcaption>LLMSniffer</figcaption>
